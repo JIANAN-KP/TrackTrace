@@ -1,0 +1,20 @@
+c:\users\wang\documents\visual studio 2015\Projects\TT_Panel\TT_Panel\bin\Debug\TT_Panel.exe.config
+c:\users\wang\documents\visual studio 2015\Projects\TT_Panel\TT_Panel\bin\Debug\TT_Panel.exe
+c:\users\wang\documents\visual studio 2015\Projects\TT_Panel\TT_Panel\bin\Debug\TT_Panel.pdb
+c:\users\wang\documents\visual studio 2015\Projects\TT_Panel\TT_Panel\obj\Debug\TT_Panel.Panel.resources
+c:\users\wang\documents\visual studio 2015\Projects\TT_Panel\TT_Panel\obj\Debug\TT_Panel.Properties.Resources.resources
+c:\users\wang\documents\visual studio 2015\Projects\TT_Panel\TT_Panel\obj\Debug\TT_Panel.csproj.GenerateResource.Cache
+c:\users\wang\documents\visual studio 2015\Projects\TT_Panel\TT_Panel\obj\Debug\TT_Panel.exe
+c:\users\wang\documents\visual studio 2015\Projects\TT_Panel\TT_Panel\obj\Debug\TT_Panel.pdb
+c:\users\wang\documents\visual studio 2015\Projects\TT_Panel\TT_Panel\obj\Debug\TT_Panel.SetPath.resources
+C:\Users\WANG\Documents\Visual Studio 2015\Projects\TT_Panel\TT_Panel\obj\Debug\TT_Panel.csprojResolveAssemblyReference.cache
+C:\Development\projects\syngenta\TT_Panel\TT_Panel\bin\Debug\TT_Panel.exe.config
+C:\Development\projects\syngenta\TT_Panel\TT_Panel\obj\Debug\TT_Panel.exe
+C:\Development\projects\syngenta\TT_Panel\TT_Panel\obj\Debug\TT_Panel.pdb
+C:\Development\projects\syngenta\TT_Panel\TT_Panel\bin\Debug\TT_Panel.exe
+C:\Development\projects\syngenta\TT_Panel\TT_Panel\bin\Debug\TT_Panel.pdb
+C:\Development\projects\syngenta\TT_Panel\TT_Panel\obj\Debug\TT_Panel.Panel.resources
+C:\Development\projects\syngenta\TT_Panel\TT_Panel\obj\Debug\TT_Panel.Properties.Resources.resources
+C:\Development\projects\syngenta\TT_Panel\TT_Panel\obj\Debug\TT_Panel.SetPath.resources
+C:\Development\projects\syngenta\TT_Panel\TT_Panel\obj\Debug\TT_Panel.csproj.GenerateResource.Cache
+C:\Development\projects\syngenta\TT_Panel\TT_Panel\obj\Debug\TT_Panel.csprojResolveAssemblyReference.cache

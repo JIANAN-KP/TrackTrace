@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<current path ="C:\Development\testfolder\TTShared\current"></current>
+<archive path ="C:\Development\testfolder\TTShared\archive"></archive>
+<log_file path = "C:\Development\testfolder\TTShared\scanlog.txt"></log_file>
+</root>

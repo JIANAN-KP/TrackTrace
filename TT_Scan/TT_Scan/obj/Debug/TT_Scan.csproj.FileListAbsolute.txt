@@ -1,0 +1,15 @@
+c:\users\wang\documents\visual studio 2015\Projects\TT_Scan\TT_Scan\bin\Debug\TT_Scan.exe.config
+C:\Users\WANG\documents\visual studio 2015\Projects\TT_Scan\TT_Scan\bin\Debug\TT_Scan.exe
+C:\Users\WANG\documents\visual studio 2015\Projects\TT_Scan\TT_Scan\bin\Debug\TT_Scan.pdb
+C:\Users\WANG\documents\visual studio 2015\Projects\TT_Scan\TT_Scan\obj\Debug\TT_Scan.csprojResolveAssemblyReference.cache
+C:\Users\WANG\documents\visual studio 2015\Projects\TT_Scan\TT_Scan\obj\Debug\TT_Scan.exe
+C:\Users\WANG\documents\visual studio 2015\Projects\TT_Scan\TT_Scan\obj\Debug\TT_Scan.pdb
+C:\Users\WANG\Documents\Visual Studio 2015\Projects\TT_Scan\TT_Scan\bin\Debug\MySql.Data.dll
+C:\Users\WANG\Documents\Visual Studio 2015\Projects\TT_Scan\TT_Scan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WANG\Documents\Visual Studio 2015\Projects\TT_Scan\TT_Scan\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\WANG\Documents\Visual Studio 2015\Projects\TT_Scan\TT_Scan\bin\Debug\Newtonsoft.Json.xml
+C:\Development\projects\syngenta\TT_Scan\TT_Scan\bin\Debug\TT_Scan.exe.config
+C:\Development\projects\syngenta\TT_Scan\TT_Scan\bin\Debug\TT_Scan.exe
+C:\Development\projects\syngenta\TT_Scan\TT_Scan\bin\Debug\TT_Scan.pdb
+C:\Development\projects\syngenta\TT_Scan\TT_Scan\obj\Debug\TT_Scan.exe
+C:\Development\projects\syngenta\TT_Scan\TT_Scan\obj\Debug\TT_Scan.pdb

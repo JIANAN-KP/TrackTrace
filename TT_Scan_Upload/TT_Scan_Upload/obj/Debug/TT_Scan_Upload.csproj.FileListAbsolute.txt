@@ -1,0 +1,12 @@
+c:\users\wang\documents\visual studio 2015\Projects\TT_Scan_Upload\TT_Scan_Upload\bin\Debug\TT_Scan_Upload.exe.config
+C:\Users\WANG\Documents\Visual Studio 2015\Projects\TT_Scan_Upload\TT_Scan_Upload\bin\Debug\TT_Scan_Upload.exe
+C:\Users\WANG\Documents\Visual Studio 2015\Projects\TT_Scan_Upload\TT_Scan_Upload\bin\Debug\TT_Scan_Upload.pdb
+C:\Users\WANG\Documents\Visual Studio 2015\Projects\TT_Scan_Upload\TT_Scan_Upload\obj\Debug\TT_Scan_Upload.exe
+C:\Users\WANG\Documents\Visual Studio 2015\Projects\TT_Scan_Upload\TT_Scan_Upload\obj\Debug\TT_Scan_Upload.pdb
+C:\Users\WANG\Documents\Visual Studio 2015\Projects\TT_Scan_Upload\TT_Scan_Upload\obj\Debug\TT_Scan_Upload.csprojResolveAssemblyReference.cache
+C:\Development\projects\syngenta\TT_Scan_Upload\TT_Scan_Upload\bin\Debug\TT_Scan_Upload.exe.config
+C:\Development\projects\syngenta\TT_Scan_Upload\TT_Scan_Upload\obj\Debug\TT_Scan_Upload.exe
+C:\Development\projects\syngenta\TT_Scan_Upload\TT_Scan_Upload\obj\Debug\TT_Scan_Upload.pdb
+C:\Development\projects\syngenta\TT_Scan_Upload\TT_Scan_Upload\bin\Debug\TT_Scan_Upload.exe
+C:\Development\projects\syngenta\TT_Scan_Upload\TT_Scan_Upload\bin\Debug\TT_Scan_Upload.pdb
+C:\Development\projects\syngenta\TT_Scan_Upload\TT_Scan_Upload\obj\Debug\TT_Scan_Upload.csprojResolveAssemblyReference.cache
